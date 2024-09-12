@@ -11,5 +11,8 @@
   "dependencies": {
     "json-server": "0.17.4",
     "json-server-reset": "1.6.3"
+  },
+  "devDependencies": {
+    "cypress": "13.14.2"
   }
 }
